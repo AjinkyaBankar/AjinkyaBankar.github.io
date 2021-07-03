@@ -21,7 +21,7 @@ Contact
 Ajinkya Bankar  
 [Department of Electrical and Computer Engineering](https://ece.fiu.edu/)  
 10555 West Flagler St. EC 3753 
-Miami, FL 33174  
+Miami, FL 33174.  
 Tel: 305-348-2522    
 [Florida International University](https://www.fiu.edu/)
 
