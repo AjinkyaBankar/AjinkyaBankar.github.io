@@ -10,5 +10,5 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-981-10-8204-7_23'
 ---
 This paper has explored a framework for heart sound analysis based on discrete wavelet transform (DWT) decomposition and its implementation in VHDL.
 
-[Download paper here](https://AjinkyabBankar.github.io/files/paper2.pdf)
+[Download paper here](https://AjinkyaBankar.github.io/files/paper2.pdf)
 
