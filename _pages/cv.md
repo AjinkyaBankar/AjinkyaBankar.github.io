@@ -51,7 +51,7 @@ Teaching
   
 Service and leadership
 ======
-* Volunteer at the [Art of Living](https://www.artofliving.org/us-en) organization
+* Volunteer for organizing [Art of Living](https://www.artofliving.org/us-en) breath meditation workshops.
 
 You can download a pdf copy of my CV [here](/files/CV.pdf).
  
