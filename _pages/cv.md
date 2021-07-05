@@ -28,7 +28,7 @@ Skills
 * PyTorch
 * Matlab
 * C/C++, Embedded C
-* CPLEX
+* CPLEX, AMPL Knitro
 * VHDL
 
 Publications
