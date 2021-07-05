@@ -53,5 +53,5 @@ Service and leadership
 ======
 * Volunteer at the [Art of Living](https://www.artofliving.org/us-en) organization
 
-You can download my CV here.
-<embed src="{{ site.baseurl }}/files/paper4.pdf" width="600" height="700" type='application/pdf'> 
+You can download a pdf copy of my CV [here](/files/paper4.pdf).
+ 
